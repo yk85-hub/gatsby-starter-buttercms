@@ -33,7 +33,7 @@ module.exports = {
     {
       resolve: `gatsby-source-buttercms`,
       options: {
-        authToken: process.env.BUTTER_CMS_TOKEN,
+        authToken:ee4e7a6ec21334902d24cf8d8bb38589c20b06b9,
         // Optional. Returns values for the supplied content field keys.
         contentFields: {
           keys: [`faq_items`, `faq_headline`],
